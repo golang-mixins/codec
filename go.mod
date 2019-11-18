@@ -1,4 +1,4 @@
-module github.com/antparcse/codec
+module github.com/golang-mixins/codec
 
 go 1.13
 
